@@ -24,6 +24,5 @@ First, navigate inside your project’s root folder:
  Next, install Bootstrap 4 and jQuery from npm:
 
  npm install --save bootstrap jquery
-Copy
-(In this case, bootstrap v4.2.1 and jquery v3.3.1 are installed.)
+ 
 
